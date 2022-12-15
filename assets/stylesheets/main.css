@@ -1,0 +1,51 @@
+nav {
+  background-color: #114358;
+  font-family: 'Press Start 2P', cursive;
+}
+
+nav .navbar-brand {
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: white;
+  
+  font-weight: 300;
+}
+
+header {
+  background-color: #114358;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#img-header {
+  height: 400px;
+}
+ 
+h1{
+  font-family: 'Press Start 2P', cursive;
+}
+h3{
+  font-family: 'Press Start 2P', cursive;
+  
+}
+
+.about {
+  background-color: #114358;
+  font-family: 'Press Start 2P', cursive;
+}
+
+
+footer {
+  background-color:#114358;
+  font-family: 'Press Start 2P', cursive;
+}
+
+form{
+  font-family: 'Press Start 2P', cursive;
+}
+.col{
+  font-family: 'Press Start 2P', cursive;
+  font-size: xx-small;
+}
