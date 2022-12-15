@@ -49,3 +49,7 @@ form{
   font-family: 'Press Start 2P', cursive;
   font-size: xx-small;
 }
+.fork{
+  width: 45%;
+  text-align: center;
+}
