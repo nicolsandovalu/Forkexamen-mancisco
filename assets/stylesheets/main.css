@@ -1,10 +1,10 @@
 nav {
-  background-color: #114358;
+  background-color: #235b74;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 nav .navbar-brand {
-  color: white;
+  color: rgb(0, 0, 0);
   font-family: 'Press Start 2P', cursive;
 }
 
@@ -15,7 +15,7 @@ nav .navbar-brand {
 }
 
 header {
-  background-color: #114358;
+  background-color: #002f4e;
   font-family: 'Press Start 2P', cursive;
 }
 
